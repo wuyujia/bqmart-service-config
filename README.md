@@ -1,1 +1,0 @@
-# bqmart-service-config
