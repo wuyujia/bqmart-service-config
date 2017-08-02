@@ -1,1 +1,3 @@
-baseUrl: 是吗?
+server:
+  port: 10000
+  context-path: /common
