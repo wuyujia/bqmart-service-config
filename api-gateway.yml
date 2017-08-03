@@ -9,3 +9,9 @@ zuul:
     goods-service:
       path: /microservice/goods/**
       service-id: goods-service
+
+
+# 拦截器开关
+filter:
+  accessToken:
+    enable: false
