@@ -14,4 +14,4 @@ zuul:
 # 拦截器开关
 filter:
   accessToken:
-    enable: false
+    enable: true
