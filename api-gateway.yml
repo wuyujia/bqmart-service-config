@@ -1,3 +1,5 @@
+server:
+  port: 8071
 # 配置网关路由代理
 zuul:
   routes:
