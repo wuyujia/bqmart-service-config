@@ -8,4 +8,4 @@ zuul:
     # 商品服务的代理
     goods-service:
       path: /microservice/goods/**
-      service-id: common-service
+      service-id: goods-service
