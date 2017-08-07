@@ -1,4 +1,4 @@
 server:
-  port: 8082
+  port: 8092
 app:
   version: 3.0
