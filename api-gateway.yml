@@ -11,6 +11,10 @@ zuul:
     goods-service:
       path: /microservice/goods/**
       service-id: goods-service
+    # config-server的代理
+    config-server:
+      path: /config-server/**
+      service-id: config-server
 
 
 # 拦截器开关
